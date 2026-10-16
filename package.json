@@ -2,7 +2,7 @@
   "name": "desk-dash",
   "version": "1.0.0",
   "private": true,
-  "description": "Always-on desk dashboard for a landscape phone: Spotify, lyrics, Notion tasks, calendar, timers.",
+  "description": "Turn an old phone or tablet into an always-on desk dashboard: Spotify, lyrics, Notion tasks, calendar, timers.",
   "dependencies": {
     "node-ical": "^0.20.1"
   },
